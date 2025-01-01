@@ -150,7 +150,6 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="row mb-3 mt-3">
                         <div class="col">
                             <button type="submit" name="submit" class="btn btn-primary my-3 sm">Submit</button>

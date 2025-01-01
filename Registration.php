@@ -40,7 +40,6 @@
         background: var(--bg-color);
         color: var(--text-color);
     }
-
 </style>
 
 <body>
@@ -162,7 +161,6 @@
                 </form>
             </div>
         </div>
-    </div>
     </div>
 
 

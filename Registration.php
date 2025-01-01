@@ -40,7 +40,7 @@
         background: var(--bg-color);
         color: var(--text-color);
     }
-    
+
 </style>
 
 <body>
@@ -159,8 +159,8 @@
                             </div>
                         </div>
                     </div>
+                </form>
             </div>
-            </form>
         </div>
     </div>
     </div>

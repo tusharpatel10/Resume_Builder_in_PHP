@@ -130,32 +130,30 @@
                                 <option value="M.LI.S.">M.LI.S.</option>
                             </select>
                         </div>
-                        <div class="mb-3 row mt-3">
-
-                            <div class="col-6">
-                                <label for="lang" class="form-label col-3">Language</label>
-                                <div class="mb col">
-
-                                    <div class="check">
-                                        <input class="form-check-input col-3" type="checkbox" name="lang[]" value="English" id="" />
-                                        <label class="form-check-label" for=""> English </label>&nbsp;&nbsp;&nbsp;
-                                        <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Hindi" id="" />
-                                        <label class="form-check-label" for=""> Hindi</label>&nbsp;&nbsp;&nbsp;
-                                        <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Gujarati" id="" />
-                                        <label class="form-check-label" for="">Gujarati</label>&nbsp;&nbsp;&nbsp;
-                                        <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Marathi" id="" />
-                                        <label class="form-check-label" for="">Marathi</label>&nbsp;&nbsp;&nbsp;
-                                        <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Tamil" id="" />
-                                        <label class="form-check-label" for="">Tamil</label>
-                                    </div>
+                    </div>
+                    <div class="mb-3 row mt-3">
+                        <div class="col-6">
+                            <label for="lang" class="form-label col-3">Language</label>
+                            <div class="mb col">
+                                <div class="check">
+                                    <input class="form-check-input col-3" type="checkbox" name="lang[]" value="English" id="" />
+                                    <label class="form-check-label" for=""> English </label>&nbsp;&nbsp;&nbsp;
+                                    <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Hindi" id="" />
+                                    <label class="form-check-label" for=""> Hindi</label>&nbsp;&nbsp;&nbsp;
+                                    <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Gujarati" id="" />
+                                    <label class="form-check-label" for="">Gujarati</label>&nbsp;&nbsp;&nbsp;
+                                    <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Marathi" id="" />
+                                    <label class="form-check-label" for="">Marathi</label>&nbsp;&nbsp;&nbsp;
+                                    <input class="form-check-input col-3" type="checkbox" name="lang[]" value="Tamil" id="" />
+                                    <label class="form-check-label" for="">Tamil</label>
                                 </div>
                             </div>
                         </div>
+                    </div>
 
-                        <div class="row mb-3 mt-3">
-                            <div class="col">
-                                <button type="submit" name="submit" class="btn btn-primary my-3 sm">Submit</button>
-                            </div>
+                    <div class="row mb-3 mt-3">
+                        <div class="col">
+                            <button type="submit" name="submit" class="btn btn-primary my-3 sm">Submit</button>
                         </div>
                     </div>
                 </form>
